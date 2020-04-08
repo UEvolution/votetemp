@@ -5,3 +5,8 @@
 可以自行改造
 点击投票可以跳转到详情页
 ```
+
+##### 预览
+
+![](https://github.com/gogogodeng/votetemp/blob/master/assert/imgs/review1.png)
+![](https://github.com/gogogodeng/votetemp/blob/master/assert/imgs/review2.png)
