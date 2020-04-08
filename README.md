@@ -8,5 +8,5 @@
 
 ##### 预览
 
-![](https://github.com/gogogodeng/votetemp/blob/master/assert/imgs/review1.png)
-![](https://github.com/gogogodeng/votetemp/blob/master/assert/imgs/review2.png)
+![图1](https://github.com/gogogodeng/votetemp/blob/master/assert/imgs/review1.png)
+![图2](https://github.com/gogogodeng/votetemp/blob/master/assert/imgs/review2.png)
